@@ -1,0 +1,10 @@
+---
+network-policies:
+  - src: frontend
+    dest: backend
+    ports: 8080-8080
+  - src: app
+    src-space: prod
+    dest: config
+    dest-space: tools
+    ports: 8080-8080
