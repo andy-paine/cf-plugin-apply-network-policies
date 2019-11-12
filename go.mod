@@ -27,7 +27,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/moby/moby v1.13.1 // indirect
-	github.com/onsi/ginkgo v1.8.0
+	github.com/onsi/ginkgo v1.10.3
 	github.com/onsi/gomega v1.5.0
 	github.com/sabhiram/go-gitignore v0.0.0-20180611051255-d3107576ba94 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
