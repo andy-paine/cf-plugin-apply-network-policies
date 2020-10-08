@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	code.cloudfoundry.org/bytefmt v0.0.0-20190819182555-854d396b647c // indirect
-	code.cloudfoundry.org/cli v6.46.0+incompatible
+	code.cloudfoundry.org/cli v6.53.0+incompatible
 	code.cloudfoundry.org/ykk v0.0.0-20170424192843-e4df4ce2fd4d // indirect
 	github.com/SermoDigital/jose v0.9.1 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
