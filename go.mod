@@ -27,14 +27,13 @@ require (
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/moby/moby v1.13.1 // indirect
-	github.com/onsi/ginkgo v1.10.3
-	github.com/onsi/gomega v1.9.0
+	github.com/onsi/ginkgo v1.16.2
+	github.com/onsi/gomega v1.10.1
 	github.com/sabhiram/go-gitignore v0.0.0-20180611051255-d3107576ba94 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/smartystreets/assertions v1.0.1 // indirect
 	github.com/smartystreets/goconvey v0.0.0-20170602164621-9e8dc3f972df
 	github.com/vito/go-interact v1.0.0 // indirect
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 )
